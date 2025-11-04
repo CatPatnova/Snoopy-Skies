@@ -27,7 +27,7 @@
 Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/Snoopy-Skies.git
+git clone https://github.com/velinovjovan/Snoopy-Skies.git
 cd Snoopy-Skies
 ```
 
