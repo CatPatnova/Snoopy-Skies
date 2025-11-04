@@ -4,12 +4,6 @@
 
 ---
 
-## 🌐 **Live Demo**
-
-Explore the website [here](https://snoopyskies.vercel.app)
-
----
-
 ## 🚀 Features
 
 - Built entirely with **Kaboom.js**
