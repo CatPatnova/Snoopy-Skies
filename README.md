@@ -4,25 +4,15 @@
 
 ---
 
-## 🚀 Features
-
-- Built entirely with **Kaboom.js**
-- Responsive design — works on desktop and mobile browsers
-- Smooth animations and sprite-based movement
-- Randomized obstacles for infinite replayability
-- Simple yet addictive gameplay loop
-
----
-
-## 🧩 Tech Stack
+## ⚙️ Tech Stack
 
 - **Kaboom.js** – 2D game engine
-- **JavaScript (ES6)** – game logic
+- **JavaScript** – game logic
 - **HTML/CSS** – structure and styling
 
 ---
 
-## 🕹️ Getting Started
+## 🧩 Installation
 
 Clone this repo:
 
@@ -44,7 +34,3 @@ npm run dev
 ```
 
 ---
-
-## 🧠 Inspiration
-
-Inspired by classic side-scrolling flight games, **Snoopy-Skies** captures the joy of simple, reflex-driven gameplay in a modern web environment.
