@@ -50,7 +50,7 @@ scene("game", () => {
     anchor("botleft"),
     area(),
     body({ isStatic: true }),
-    color(77, 11, 11),
+    color(44, 44, 84),
   ]);
 
   //BOTTOM
@@ -60,7 +60,7 @@ scene("game", () => {
     anchor("topleft"),
     area(),
     body({ isStatic: true }),
-    color(77, 11, 11),
+    color(44, 44, 84),
   ]);
 
   function jump() {
@@ -158,7 +158,7 @@ scene("game", () => {
   const scoreLabel = add([
     text(score),
     pos(50, FLOOR_HEIGHT + 50),
-    color(0, 0, 0),
+    color(255, 255, 255),
   ]);
 
   let snoop = true;
